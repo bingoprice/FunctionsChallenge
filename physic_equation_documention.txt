@@ -19,5 +19,3 @@ a = float;
 ##Returns:
 float = F;
 
-##Other notes:
-Anything else?
