@@ -1,0 +1,18 @@
+# Name: 
+findTheHypotenuse()
+## Examples:
+float a = 5; // set "a" to any value
+float b = 12; // set "b" to any value 
+
+## Description:
+finds the c value by squaring a and b, then adding them together, and then square rooting the whole sum.
+
+## Syntax:
+println(findTheHypotenuse(a,b));
+
+##Parameters: 
+a = float;
+b = float;
+
+##Returns:
+float c;

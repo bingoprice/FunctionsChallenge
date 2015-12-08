@@ -1,0 +1,26 @@
+ 
+# Name: findTheZeros()
+ 
+ ## Examples:
+float a = 6; // set "a" to any value 
+float b = 7; // set"b" to any value
+float c = 8; // set "c" to any value
+
+
+println(findZeros(1,5,6));
+ 
+ ## Description:
+finds the zeros by using the quadratic equation.
+ 
+ ## Syntax:
+println(findTheZeros(a,b,c));
+ 
+ ##Parameters: 
+a = float;
+b = float;
+c = float;
+ 
+ ##Returns:
+float x;
+ 
+
