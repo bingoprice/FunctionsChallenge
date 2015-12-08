@@ -1,19 +1,26 @@
-# Name: 
+# Name: findTheZeros()
 
 ## Examples:
-Insert examples here.
+float a = 6; // set "a" to any value 
+float b = 7; // set"b" to any value
+float c = 8; // set "c" to any value
+
+
+println(findZeros(1,5,6));
 
 ## Description:
-Insert description here
+finds the zeros by using the quadratic equation.
 
 ## Syntax:
-Demonstrate syntax here
+println(findTheZeros(a,b,c));
 
 ##Parameters: 
-Name and describe parameters here
+a = float;
+b = float;
+c = float;
 
 ##Returns:
-What type of data does it return?
+float
 
 ##Other notes:
 Anything else?
