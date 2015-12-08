@@ -1,0 +1,23 @@
+# Name: 
+findTheForce()
+
+## Examples:
+float m = 8; // set "m" to any value
+float a = 4.4; // set "a" to any value
+
+
+## Description:
+finds the Force from multipling the mass and the acceleration.
+
+## Syntax:
+println(findTheForce( m, a);
+
+##Parameters: 
+m = float;
+a = float;
+
+##Returns:
+float = F;
+
+##Other notes:
+Anything else?
