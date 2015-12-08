@@ -21,7 +21,6 @@ b = float;
 c = float;
  
  ##Returns:
-float
+float x;
  
- ##Other notes:
- Anything else?
+
